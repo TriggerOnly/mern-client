@@ -1,0 +1,1 @@
+"# Posts_Demonstration"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/TriggerOnly/Posts_Demonstration.gitgit push -u origin main
